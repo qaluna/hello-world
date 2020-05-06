@@ -1,3 +1,3 @@
-# hello-world
+# Roll!
 
-Ok, let's get this show on the road, shall we?
+A web developement fundamentals class laboratory homework.
